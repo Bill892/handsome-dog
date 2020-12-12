@@ -12,7 +12,7 @@ const prefix = '?';
 
 client.once('ready', () => {
 
-    console.log('your bot name is online!');
+    console.log('im online!');
 
 });
 client.on('message', message =>{
